@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/kaushiklaxay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/sujal_here" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/laxay-kaushish-0949b0257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sujal-kumar-38544b229/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Klaxay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sujal_kumar1/" height="30" width="40" /></a>
+<a href="https://x.com/kaushiklaxay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/kaushiklaxay" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/laxay-kaushish-0949b0257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/laxay-kaushish-0949b0257/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Klaxay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Klaxay/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
